@@ -44,7 +44,7 @@ Poniendo en practica algunas cosas aprendidas en los cursos de go.
 ### Registrando alumnos (Nodejs + CSS + MYSQL + MVC): [![AlumnosGIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/tp-mario-backend-pp2022)
 
 
-### Consumiento "The Dog API" (React + Nodejs): [![DogAPI](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/webDogsAPI)
+### Consumiento "The Dog API" (HTML + JS): [![DogAPI](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/webDogsAPI)
 
 
 ## Contacto y Redes:
