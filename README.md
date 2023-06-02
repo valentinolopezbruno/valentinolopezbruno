@@ -38,7 +38,7 @@ En este caso, lo que se ve en pantalla es un carrito de compra donde el usuario 
 ### Portafolio en React: [![ReactPortfolioGit](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/Web-PortFolio-REAC)[![ReactPortfolioYT](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/33lemQaCis8)
 Proyecto personal para reforzar css (diseño es en base a un video de yt).
 
-### Registrando productos (Go + Bootstrap + MYSQL): [![GoAppGit](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/Go_register_order) [![GoAppYT](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HMWuUNFGBZ8)
+### Registrando pedidos (Go + Bootstrap + MYSQL): [![GoAppGit](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/Go_register_order) [![GoAppYT](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HMWuUNFGBZ8)
 Poniendo en practica algunas cosas aprendidas en los cursos de go.
 
 ### Registrando alumnos (Nodejs + CSS + MYSQL + MVC): [![AlumnosGIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/tp-mario-backend-pp2022)
