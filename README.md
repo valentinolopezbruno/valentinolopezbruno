@@ -1,5 +1,5 @@
 # Hola, mi nombre es Valentino López -
-### Estudio de Ingeniería en sistemas y Jr Software Dev. en mis tiempos libres.
+### Estudio de Ingeniería en sistemas, actualmente me considero Jr Software Dev.
 
 ## Tecnologías que manejo:
 [![Arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
