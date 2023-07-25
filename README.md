@@ -37,7 +37,10 @@ En esta ocasión me toco desarollar una Web estatica de una escribania local.
 Desarollo de Web a Pedido.
 
 ### Optica LAFERRERE (Wordpress): [![Optica](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://opticalaferrere.com/)
-Desarollo de Web a Pedido
+Desarollo de Web a Pedido.
+
+### TOMMY PETS (Wordpress + Woocommerce): [![TOMMYPETS](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://tommypets.com.ar/)
+Desarollo de Web + E-commerce, minorista y mayorista.
 
 ### WEB APP Fabrica de pastas: [![TuttoBeneHostGratuito](https://img.shields.io/website-down-down-red-red/http/cv.lbesson.qc.to.svg)](https://gomezgianelli.000webhostapp.com/)
 En este caso, lo que se ve en pantalla es un carrito de compra donde el usuario tiene la posibilidad de abonar con la pasarela de mercadopago o en efectivo. Todos los productos que se muestran estan guardados en una base de datos mysql y el proyecto esta realizado con react y nodejs(express). También tiene una interfaz de administrador donde este se logea(JWT) y puede realizar el CRUD de los productos, categorias y variedades de productos. En la parte del admin se puede tomar pedidos en las ocasiones que llaman por telefono al local. Aqui tambien se pueden ver los pedidos que entraron por la parte principal(carrito) y si estan pagos o no. Cuando el cliente realiza una compra el pedido pasa por distintos estados que el admin va actualizando a medida que esta siendo preparado. Por otra parte, el admin posee un registro del historial de pedidos y tiene la posibilidad de cerrar una caja diaria donde se muestran las estadisticas de los pedidos enviados en el dia. Este proyecto fue realizado en colaboracion de un amigo y cuando este terminado al 100% sera mostrado.
