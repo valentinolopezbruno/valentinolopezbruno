@@ -33,7 +33,7 @@
 ### Escribania (Bootstrap + CSS): [![Escribania](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://escribaniagomezgianelli.com/)
 En esta ocasión me toco desarollar una Web estatica de una escribania local.
 
-### Labelar (Wordpress): [![Escribania](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](labelargentina.com)
+### Labelar (Wordpress): [![Labelar](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://labelargentina.com/)
 Desarollo de Web a Pedido
 
 ### WEB APP Fabrica de pastas: [![TuttoBeneHostGratuito](https://img.shields.io/website-down-down-red-red/http/cv.lbesson.qc.to.svg)](https://gomezgianelli.000webhostapp.com/)
