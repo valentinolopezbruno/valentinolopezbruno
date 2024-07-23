@@ -1,5 +1,6 @@
-# Hola, mi nombre es Valentino López -
-### Estudio de Ingeniería en sistemas, actualmente me considero Jr Software Dev.
+# Hola, mi nombre es Valentino ✌️
+
+### Estudio de Ingeniería en sistemas y me dedico al desarrollo de software a medida 
 
 ## Tecnologías que manejo:
 [![Arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
@@ -28,39 +29,6 @@
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)]()
 
 
-# Algunos de mis proyectos
-
-### Escribania (Bootstrap + CSS): [![Escribania](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://escribaniagomezgianelli.com/)
-En esta ocasión me toco desarollar una Web estatica de una escribania local.
-
-### Labelar (Wordpress): [![Labelar](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://labelargentina.com/)
-Desarollo de Web a Pedido.
-
-### Optica LAFERRERE (Wordpress): [![Optica](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://opticalaferrere.com/)
-Desarollo de Web a Pedido.
-
-### TOMMY PETS (Wordpress + Woocommerce): [![TOMMYPETS](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://tommypets.com.ar/)
-Desarollo de Web + E-commerce, minorista y mayorista.
-
-### Cerrajeria (Wordpress): [![CERRAJERIA](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://cerrajeriaemergencias.com/)
-Desarollo de Web a pedido.
-
-### Powe Cumbia (Wordpress + CSS): [![POWECUMBIA](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://powercumbia.com/)
-Desarollo de Web a pedido.
-
-### WEB APP Fabrica de pastas: [![TuttoBeneHostGratuito](https://img.shields.io/website-down-down-red-red/http/cv.lbesson.qc.to.svg)](https://tuttobene.online/)
-En este caso, lo que se ve en pantalla es un carrito de compra donde el usuario tiene la posibilidad de abonar con la pasarela de mercadopago o en efectivo. Todos los productos que se muestran estan guardados en una base de datos mysql y el proyecto esta realizado con react y nodejs(express). También tiene una interfaz de administrador donde este se logea(JWT) y puede realizar el CRUD de los productos, categorias y variedades de productos. En la parte del admin se puede tomar pedidos en las ocasiones que llaman por telefono al local. Aqui tambien se pueden ver los pedidos que entraron por la parte principal(carrito) y si estan pagos o no. Cuando el cliente realiza una compra el pedido pasa por distintos estados que el admin va actualizando a medida que esta siendo preparado. Por otra parte, el admin posee un registro del historial de pedidos y tiene la posibilidad de cerrar una caja diaria donde se muestran las estadisticas de los pedidos enviados en el dia. Este proyecto fue realizado en colaboracion de un amigo y cuando este terminado al 100% sera mostrado.
-
-### Portafolio en React: [![ReactPortfolioGit](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/Web-PortFolio-REAC)[![ReactPortfolioYT](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/33lemQaCis8)
-Proyecto personal para reforzar css (diseño es en base a un video de yt).
-
-### Registrando pedidos (Go + Bootstrap + MYSQL): [![GoAppGit](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/Go_register_order) [![GoAppYT](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HMWuUNFGBZ8)
-Poniendo en practica algunas cosas aprendidas en los cursos de go.
-
-### Registrando alumnos (Nodejs + CSS + MYSQL + MVC): [![AlumnosGIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/tp-mario-backend-pp2022)
-
-
-### Consumiento "The Dog API" (HTML + JS): [![DogAPI](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentinolopezbruno/webDogsAPI)
 
 
 ## Contacto y Redes:
