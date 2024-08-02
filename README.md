@@ -1,8 +1,9 @@
-# Hola, mi nombre es Valentino ✌️
+# Hi, my name is Valentino ✌️
 
-### Estudio Ingeniería en sistemas y me dedico al desarrollo de software 
+### • Information systems engineering
+### • Software development
 
-## Tecnologías que manejo:
+### Technologies I have worked with
 [![Arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 </br>
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -31,8 +32,7 @@
 
 
 
-## Contacto y Redes:
+## Contact:
 [![Email](https://img.shields.io/badge/valentinolopezbruno@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](valentinolopezbruno@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@valentino.lopez1-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/valentino.lopez1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentino_Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/valentinolopezbruno/)
 
