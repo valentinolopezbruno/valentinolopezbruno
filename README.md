@@ -1,6 +1,6 @@
 # Hola, mi nombre es Valentino ✌️
 
-### Estudio de Ingeniería en sistemas y me dedico al desarrollo de software a medida 
+### Estudio de Ingeniería en sistemas y me dedico al desarrollo de software 
 
 ## Tecnologías que manejo:
 [![Arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
