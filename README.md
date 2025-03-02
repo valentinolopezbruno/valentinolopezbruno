@@ -4,7 +4,7 @@ I'm a backend developer with 3 years of experience building scalable application
 
 💼 Currently working at [Fusionix](https://www.fusionix.net/) as a backend developer, implementing Meta’s API and improving a platform that manages user conversations across WhatsApp (official and unofficial), Instagram, Facebook, and Telegram.  
 
-🚀 I also collaborate on [TicketSpace](https://ticketspace.com.ar/) as a backend developer, using MERN and Fastify to enhance the platform (though not too frequently).  
+🚀 I also collaborate on [TicketSpace](https://ticketspace.com.ar/) as a backend developer, using MERN and Fastify to enhance the platform.  
 
 🛠️ Founder of [Stable Software](https://stable.com.ar/), where I develop custom software solutions tailored to each client’s needs.  
 
