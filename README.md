@@ -8,7 +8,7 @@ I'm a backend developer with 3 years of experience building scalable application
 
 🛠️ Founder of [Stable Software](https://stable.com.ar/), where I develop custom software solutions tailored to each client’s needs.  
 
-⚙️ Passionate about DevOps! I work with Docker, Azure services, and Linux virtual machines to ensure smooth deployments and high availability.  
+⚙️ Passionate about DevOps! I work with Docker, Azure services, and both Linux and Windows Server virtual machines to ensure smooth deployments and high availability.
 
 🎓 I have a Systems Analyst degree and I'm currently studying Systems Engineering at the National Technological University (UTN).  
 
