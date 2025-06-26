@@ -2,7 +2,7 @@
 
 I'm a backend developer with 3 years of experience building scalable applications. I specialize in the MERN and PERN stacks, always looking for ways to improve performance and efficiency.  
 
-💼 Currently working at [Fusionix](https://www.fusionix.net/) as a backend developer, implementing Meta’s API and improving a platform that manages user conversations across WhatsApp (official and unofficial), Instagram, Facebook, and Telegram.  
+💼 Currently working at [Fusionix](https://www.fusionix.net/) as a backend developer, implementing Meta’s API and improving a platform that manages user conversations across WhatsApp, Instagram, Facebook, and Telegram.  
 
 🚀 I also collaborate on [TicketSpace](https://ticketspace.com.ar/) as a backend developer, using MERN and Fastify to enhance the platform.  
 
