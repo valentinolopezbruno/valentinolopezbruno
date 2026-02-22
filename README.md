@@ -1,7 +1,5 @@
+## 📫 Contact
 
-
-
-## Contact:
-[![Email](https://img.shields.io/badge/valentinolopezbruno@gmail.com-email_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](valentinolopezbruno@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentino_Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/valentinolopezbruno/)
-
+- ✉️ Email: [valentinolopezbruno@gmail.com](mailto:valentinolopezbruno@gmail.com)  
+- 💼 LinkedIn: [Valentino Lopez](https://www.linkedin.com/in/valentinolopezbruno)  
+- 🌐 Portfolio: [valentinolopez.dev](https://www.valentinolopez.dev)
