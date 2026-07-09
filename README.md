@@ -1,2 +1,2 @@
  
-- 🌐 Me: [valentinolopez.dev](https://www.valentinolopez.dev/#home)
+ 🌐  [valentinolopez.dev](https://www.valentinolopez.dev/#home)
